@@ -2,13 +2,10 @@
 
 I'm Ritya — a passionate software developer who loves building full-stack web apps and solving real-world problems with code.
 
-**Languages:** JavaScript, TypeScript, Java, Python  
-**Frontend:** React, Tailwind CSS, HTML/CSS  
+**Languages:** HTML, CSS, JavaScript, Java, Python  
+**Frontend:** React, Tailwind CSS, Bootstrap  
 **Backend:** Node.js, Express, MongoDB, MySQL  
 **Tools:** Docker, Grafana
-
-- 🔗 [Eventify](https://github.com/yourusername/eventify) – Real-time event listing app using web scraping and WhatsApp notifications.
-- 📘 [BookReviewPro](https://github.com/yourusername/bookreviewpro) – MERN-based book review platform using Open Library API.
 
 
 🌐 [Portfolio](https://lohaniritya.github.io/Portfolio/) | 📫 [Email](mailto:lohaniritya23@gmail.com) | 💬 [LinkedIn](https://linkedin.com/in/rityakumari)
