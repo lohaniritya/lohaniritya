@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4d6d;">Ritya Kumari</span></h1>
-<h3 align="center">Aspiring Software Developer | Full-Stack Enthusiast 🚀</h3>
+<h3 align="center">Full-Stack Enthusiast 🚀</h3>
 
 ---
 
